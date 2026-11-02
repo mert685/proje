@@ -1,0 +1,2 @@
+# proje
+Yeni oluşturulan repository
